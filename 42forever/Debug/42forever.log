@@ -1,0 +1,37 @@
+﻿  psv.c
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(123): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(408): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item ***"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(408): warning C4024: menu_page: различные типы для формального и фактического параметров 1
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(409): warning C4047: функция: "Item *" отличается по уровням косвенного обращения от "Item **"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(409): warning C4024: start_position_cursor: различные типы для формального и фактического параметров 1
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(443): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[4]"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(443): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(492): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[3]"
+  c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(492): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(516): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[3]"
+  c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(516): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(540): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[4]"
+  c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(540): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(564): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[3]"
+  c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(564): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(588): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[3]"
+  c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(588): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(611): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[3]"
+  c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(611): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(622): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item ***"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(622): warning C4024: menu_page: различные типы для формального и фактического параметров 1
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(623): warning C4047: функция: "Item *" отличается по уровням косвенного обращения от "Item **"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(623): warning C4024: start_position_cursor: различные типы для формального и фактического параметров 1
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(679): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item ***"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(679): warning C4024: menu_ctrl: различные типы для формального и фактического параметров 1
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(681): warning C4047: функция: "Item *" отличается по уровням косвенного обращения от "Item **"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(681): warning C4024: start_position_cursor: различные типы для формального и фактического параметров 1
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(683): warning C4047: функция: "Item *" отличается по уровням косвенного обращения от "Item **"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(683): warning C4024: make_event_ctrl: различные типы для формального и фактического параметров 2
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(683): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item *"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(683): warning C4024: make_event_ctrl: различные типы для формального и фактического параметров 3
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(683): warning C4047: функция: "Controls *" отличается по уровням косвенного обращения от "Controls **"
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(683): warning C4024: make_event_ctrl: различные типы для формального и фактического параметров 4
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(701): warning C4098: make_event_menu: функция типа "void", возвращающая значение
+c:\users\user\downloads\42forever\42forever\42forever\42forever\psv.c(378): warning C4715: menu_console_event: значение возвращается не при всех путях выполнения
+  42forever.vcxproj -> C:\Users\User\Downloads\42forever\42forever\42forever\Debug\42forever.exe

@@ -1,0 +1,35 @@
+﻿  psv.c
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(70): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(233): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char ***"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(233): warning C4024: strcpy: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(253): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item ***"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(253): warning C4024: menu_page: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(264): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char [3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(264): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(271): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(271): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(279): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(279): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(287): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(287): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(295): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(295): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(303): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(303): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(311): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(311): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(319): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[3]"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(319): warning C4024: vvod_proverka: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(328): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item ***"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(328): warning C4024: menu_page: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(358): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item ***"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(358): warning C4024: menu_ctrl: различные типы для формального и фактического параметров 1
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(359): warning C4047: функция: "Item *" отличается по уровням косвенного обращения от "Item **"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(359): warning C4024: make_event_ctrl: различные типы для формального и фактического параметров 2
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(359): warning C4047: функция: "Item **" отличается по уровням косвенного обращения от "Item *"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(359): warning C4024: make_event_ctrl: различные типы для формального и фактического параметров 3
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(359): warning C4047: функция: "Controls *" отличается по уровням косвенного обращения от "Controls **"
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(359): warning C4024: make_event_ctrl: различные типы для формального и фактического параметров 4
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(365): warning C4098: make_event_menu: функция типа "void", возвращающая значение
+c:\users\dagree\yandexdisk\документы\42forever\42forever\42forever\42forever\draw.h(212): warning C4715: menu_console_event: значение возвращается не при всех путях выполнения
+  42forever.vcxproj -> C:\Users\DaGree\YandexDisk\Документы\42forever\42forever\42forever\x64\Debug\42forever.exe
